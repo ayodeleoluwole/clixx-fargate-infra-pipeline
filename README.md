@@ -1,4 +1,4 @@
-# 🏗️ CliXX Fargate Infra
+# CliXX Fargate Infra
 
 
 ## Overview
